@@ -17,6 +17,7 @@
 #ifndef CPP_TEMPERATURE_TEMPERATURE_CACHE_H_
 #define CPP_TEMPERATURE_TEMPERATURE_CACHE_H_
 
+#include <optional>
 #include <map>
 #include <vector>
 
